@@ -1,2 +1,4 @@
 #!bin/bash
+<<<<<<< variant A
 echo "ALX School is so cool!"
+======= end
